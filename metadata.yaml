@@ -1,0 +1,35 @@
+_repo: Twelfth-Night-Or-What-You-Will_1527
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Belasco Theatre, Washington, D.C., David Belasco & Sam S. & Lee Shubert,
+  proprietors and managers, direction of Sam S. & Lee Shubert (Inc.), L. Stoddard
+  Taylor, manager. Combined stellar engagement of Mr. E.H. Sothern and Miss Julia
+  Marlowe in Shakespearean repertoire. Shakespeare's comedy of "Twelfth Night". Scenery
+  by Emmens and Unitt, properties by E. Seidle, shoes by I. Miller.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Drama'
+- !lcsh 'Mistaken identity -- Drama'
+- !lcc 'PR'
+- !lcsh 'Illyria -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Shipwreck survival -- Drama'
+- !lcsh 'Brothers and sisters -- Drama'
+title: Twelfth Night; Or, What You Will
+url: http://www.gutenberg.org/ebooks/1527
