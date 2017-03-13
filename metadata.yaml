@@ -1,5 +1,8 @@
 _repo: Twelfth-Night-Or-What-You-Will_1527
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -16,6 +19,8 @@ description: Belasco Theatre, Washington, D.C., David Belasco & Sam S. & Lee Shu
   Taylor, manager. Combined stellar engagement of Mr. E.H. Sothern and Miss Julia
   Marlowe in Shakespearean repertoire. Shakespeare's comedy of "Twelfth Night". Scenery
   by Emmens and Unitt, properties by E. Seidle, shoes by I. Miller.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1527#Twelfth-Night-Or-What-You-Will
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
 identifiers:
