@@ -1,5 +1,5 @@
 _repo: Twelfth-Night-Or-What-You-Will_1527
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcsh 'Shipwreck survival -- Drama'
 - !lcsh 'Brothers and sisters -- Drama'
+- GITenberg
 title: Twelfth Night; Or, What You Will
 url: http://www.gutenberg.org/ebooks/1527
